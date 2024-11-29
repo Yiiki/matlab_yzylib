@@ -1,0 +1,14 @@
+metadata_version: 1
+name: MATLAB library Capsule Nov 29, 2024 16:36
+description: Utilities for MATLAB scripts.
+tags:
+- Atomistic data post-process and plot
+- Data post-process and plot
+authors:
+- name: Zhao-Yi Yan
+  affiliations:
+  - name: Institute of Semiconductors, CAS
+corresponding_contributor:
+  name: Zhao-Yi Yan
+  email: 13971216897@163.com
+
